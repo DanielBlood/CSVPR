@@ -1,5 +1,6 @@
 CSVPR (CSV Parser) written in C++
 ------------------
+A simple CSV Parser written in C++
 
 Example
 -------
